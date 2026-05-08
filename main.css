@@ -28,10 +28,6 @@
     box-sizing: border-box;
 }
 
-body.modal-open {
-    overflow: hidden;
-}
-
 html {
     scroll-behavior: smooth;
 }
